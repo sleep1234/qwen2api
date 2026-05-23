@@ -1,0 +1,16 @@
+# 环境
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# 运行时状态（含敏感信息）
+baxia_state.json
+cookies.json
+last_response.json
+last_sse.txt
+probe_results.json
+
+# IDE
+.vscode/
+.idea/
